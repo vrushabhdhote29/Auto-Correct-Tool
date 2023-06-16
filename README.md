@@ -15,6 +15,4 @@ In the example usage section, the code prompts the user to enter a word. It then
 
 The Levenshtein distance algorithm is a simple yet effective method for finding the nearest words based
 
-![image](https://github.com/vrushabhdhote29/Auto-Correct-Tool/assets/92002956/3e18a7ce-7250-40f7-85d3-ef6b46de0f1c)
-
-![image](https://github.com/vrushabhdhote29/Auto-Correct-Tool/assets/92002956/661bd126-87fa-4b21-b0c6-982c472f24a0)
+![image](https://github.com/vrushabhdhote29/Auto-Correct-Tool/assets/92002956/19e50da9-257d-4f6d-b765-3edc2a1b0588)
